@@ -1,0 +1,32 @@
+"Assumptions, Data Sources & Methodology",,
+"Where public data was unavailable, analyst estimates are clearly marked [Est.] and based on observable proxies.",,
+,,
+ASSUMPTION CATEGORIES,,
+Area,Assumption,Basis / Observable Proxy
+Traffic estimates,"Monthly website visit ranges are analyst estimates, not measured","Derived from relative review volume, social followings, brand search visibility and competitor rank positions. For precise numbers, commission a SimilarWeb/Ahrefs subscription."
+Social follower counts,Platform followers rounded to nearest 5K/10K/50K,Publicly visible at the time of writing — counts change weekly.
+Ad spend levels,"'Heavy', 'Moderate', 'Low' categorisation of paid ads","Based on appearance in Meta Ad Library, Google Ads live-inspections, display of sponsored results during simulated searches, and observable landing page quantity."
+Pricing bands,Budget / Mid / Premium classification,"Based on published package prices where available, consultation fees, and qualitative positioning on website. Some bands are analyst judgments."
+Competitor funnel analysis,Website funnel steps & lead magnets,Inspected by analyst visiting each competitor website on both desktop & mobile. Snapshots as of April 2026.
+Kokapet catchment size & demographics,"7–10 km radius, 30K+ corporate employees, young-family dominant",Inferred from Kokapet/Nanakramguda/Financial District residential + IT park developments; not measured at household level.
+Medicover Kokapet launch date,12–18 months from April 2026,Medicover press release + news coverage of 550-bed announcement. Exact launch date not confirmed.
+Client's current digital footprint,Assumed minimal / new-build,Onboarding sheet references 'credentials to be given' for Instagram/Facebook/website — implying early-stage digital setup.
+TPA empanelment timing,Assumed 3–6 months from start,Onboarding sheet notes 'will be' for insurance — implying process initiated but not live.
+24x7 emergency status,"Permanent strategic choice, not short-term","Onboarding sheet explicitly says 'No' with no pipeline to add. Positioning treats this as a feature, not a gap."
+,,
+PRIMARY DATA SOURCES,,
+Competitor / Topic,Source,Type
+Continental Hospitals,continentalhospitals.com,"Official website — specialties, accreditations, facilities"
+AIG Hospitals,aighospitals.com,"Official website — centres of excellence, reviews"
+Citizens Specialty Hospital,"citizenshospitals.com + Justdial (15,180 ratings)",Official + directory
+Arete Hospitals,aretehospitals.com + Credihealth,Official + aggregator
+Himagiri Hospitals,himagirihospitals.com + Practo + Justdial,Official + directory
+Pranaam Hospitals,"pranaamhospitals.com + Justdial (5,131 ratings)",Official + directory
+Rainbow Children's Hospital,rainbowhospitals.in + Instagram @rainbowchildrenshospitals,Official + social
+Ankura Hospitals,ankurahospitals.com + Instagram @ankurahospitals,Official + social
+Apollo Cradle,apollocradle.com + Apollo247.com + Justdial,Official + group platform
+Medicover Hospitals,medicoverhospitals.in + press release on 550-bed Kokapet launch,Official + news
+CARE Hospitals,carehospitals.com + Wikipedia + hexahealth.com,Official + public records
+Market trend studies,"Media Ant, upGrowth, UpGro Media, Redwud Creations (2026 healthcare marketing reports)",Industry publications
+Google Reviews / Justdial / Practo,Aggregator ratings as of April 2026,Third-party aggregators
+Client onboarding sheet,BB Unicare Hospitals Onboarding Document.xlsx,Primary client input
